@@ -57,7 +57,7 @@ const Footer = () => {
                         <FooterLink to='/'>Terms of Service</FooterLink>
                     </FooterLinksItem>
                     </FooterLinksWrapper>
-                    <FooterLinksWrapper>
+                <FooterLinksWrapper>
                     <FooterLinksItem>
                         <FooterLinkTitle>Videos</FooterLinkTitle>
                         <FooterLink to='/sign-up'>How it works</FooterLink>
